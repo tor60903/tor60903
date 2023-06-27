@@ -40,6 +40,6 @@
   
 ## Connect with me
 
-[![Linkedin Badge](https://www.linkedin.com/in/tiago-de-oliveira-rodrigues-a85b2173/)
+![Linkedin Badge](https://www.linkedin.com/in/tiago-de-oliveira-rodrigues-a85b2173/)
 
 <a href = "mailto:tor60903_@hotmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
